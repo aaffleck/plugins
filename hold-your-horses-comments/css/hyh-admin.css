@@ -1,0 +1,54 @@
+/* CSS Styles for Hold Your Horses Options Page */
+
+#hold-your-horses-options { margin-top:30px; }
+
+#defaultTextLabel { margin-left:57px; }
+#defaultText { width:400px; }
+
+#defaultQuestionLabel { margin-left:30px; }
+#defaultQuestion { width:400px; }
+
+
+#defaultAnswer { width:400px; }
+#defaultAnswerLabel { margin-left:41px; }
+
+#defaultHint { width:400px; }
+#defaultHintLabel { margin-left:60px; }
+
+#progressBarColorLabel { margin-left:20px; }
+#progressBarColor { width:100px; }
+
+#displayProgressBarLabel { }
+#displayProgressBar { width:50px; }
+
+#saveHoldYourHorsesOptions { margin-left:140px; }
+
+#hyh-meta-box { padding:10px; }
+#hyh-meta-box label { display:block;margin-bottom:10px; }
+
+#_HYHLimitLabel { margin-left:120px;font-size:12px; }
+
+#_HYHEnableQuestionLabel { margin-left:120px;font-size:12px; }
+
+#_HYHHint { width:77%; }
+#_HYHHintLabel { margin-left:93px; }
+
+#_HYHQuestion { width:75%; }
+#_HYHQuestionLabel { margin-left:67px; }
+
+#_HYHAnswer { width:76%; }
+#_HYHAnswerLabel { margin-left:76px; }
+
+#_HYHTime { width:100px; }
+#_HYHTimeLabel { margin-left:69px; }
+
+#_HYHProgressBarColor { width:100px; }
+#_HYHProgressBarColorLabel { margin-left:16px; }
+
+#_HYHDisplayProgrssBar { width:50px; }
+
+.helplink { width:600px;margin-bottom:17px; }
+.helplink img { width:18px;height:18px;vertical-align:middle; }
+.helplink span.description { position:absolute;width:200px;background:#eee;color:#515151;padding:15px;display:none;-webkit-border-radius: 10px;-moz-border-radius: 10px;border-radius: 10px;border:1px solid #ccc; }
+
+.ui-widget { background:#ccc !important; }

@@ -1,0 +1,21 @@
+/* CSS Styles for Hold Your Horses Comments Plugin */
+
+#comments { position:relative; }
+
+.avg_time_border { position:relative;border:1px solid black;width:250px;height:10px; }
+.avg_time_border span#prog { position:absolute;top:-8px;left:50%;margin-left:-30px;font-size:10px; }
+.hold-your-horses { position:absolute;left:1px;bottom:99px;height:187px;padding:12px;background:#eee;width:607px; }
+.hold-your-horses h3 { padding:0px;margin:0px 0px 7px 0px !important; }
+.hold-your-horses p { font-size:14px;margin:0px 0px 7px 0px !important; }
+.hold-your-horses p span.qa { font-size:12px; }
+#average-reding-time-display { position:absolute;top:0px;right:20px;font-size:11px; }
+#answer-p { margin-left:8px !important; }
+#comment-in { }
+
+.challenge-answer { width:68% !important;display:inline;height:17px !important;line-height:17px !important;font-size:12px !important; }
+
+.answer-challenge-submit { margin-left:10px !important; }
+
+.hold-your-horses p.hint { font-size:11px;margin-top:-20px !important;margin-left:58px !important; }
+
+#msg { display:none; }

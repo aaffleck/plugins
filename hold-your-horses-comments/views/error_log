@@ -1,0 +1,1 @@
+[21-Mar-2012 13:47:05] PHP Fatal error:  Call to undefined function  _e() in /home/aaffleck/public_html/code-samples/hold-your-horses-comments/views/hyh-meta-box.php on line 4

@@ -1,0 +1,16 @@
+.tax-table{ width: 500px;border: none;margin: 0;padding:15px;
+	background: -moz-linear-gradient(100% 100% 90deg, #fff, #eee);
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#eee), to(#fff));
+}
+
+.tax-table table { min-width:500px; max-width:520px;margin:0;padding:0; }
+.tax-table table th { border-bottom:2px solid #ccc;padding:3px 9px; }
+.tax-table table td { border-bottom:1px solid #ccc;padding:6px 9px;text-align:center; }
+.tax-table table .province-name { color:#003767;font-size:13px;text-align:right; }
+
+.tax-table-content { margin-top:28px; }
+
+.highlights { font-size:12px;width:510px;margin-top:20px; }
+.highlights p { font-size:12px !important; }
+
+.tax-disclaimer { width:500px;font-size:11px !important;background:#ececec;padding:9px !important; }

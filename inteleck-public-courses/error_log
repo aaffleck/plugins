@@ -1,0 +1,2 @@
+[15-Mar-2012 15:46:07] PHP Fatal error:  Call to undefined function  plugin_basename() in /home/aaffleck/public_html/code-samples/inteleck-public-courses/inteleck-public-courses.php on line 41
+[21-Mar-2012 13:03:18] PHP Fatal error:  Call to undefined function  plugin_basename() in /home/aaffleck/public_html/code-samples/inteleck-public-courses/inteleck-public-courses.php on line 41
